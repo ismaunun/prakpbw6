@@ -25,7 +25,7 @@
     <img width="1470" height="924" alt="Image" src="https://github.com/user-attachments/assets/c0ba0268-acd2-43f0-85bc-0457d05ea56e" />
 
 3. Halaman Login `/admin/login`
-    <img width="1470" height="924" alt="Image" src="https://github.com/user-attachments/assets/804b3eab-0830-4255-b9a8-99d2725641e4" />
+    ![WhatsApp Image 2025-11-07 at 19 19 33_afae45d1](https://github.com/user-attachments/assets/c01d2256-911e-4b03-b660-fdc91cd8ab57)
 
 4. Halaman Dashboard Admin `/admin`
     <img width="1470" height="924" alt="Image" src="https://github.com/user-attachments/assets/2586c71f-2ef9-427b-a215-edbcd9ee8b0e" />
