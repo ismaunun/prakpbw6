@@ -18,7 +18,8 @@
 ## Screenshot Hasil Running
 
 1. Halaman Utama `/`
-    <img width="1470" height="924" alt="Image" src="https://github.com/user-attachments/assets/3ab04ee9-3599-4180-b064-de0ef00bf82c" />
+    ![WhatsApp Image 2025-11-07 at 19 18 09_334288ed](https://github.com/user-attachments/assets/ab4c3ecd-7059-463a-94cd-67f81e8b7412)
+
 
 2. Halaman Kegiatan (Publik) `/kegiatan`
     <img width="1470" height="924" alt="Image" src="https://github.com/user-attachments/assets/c0ba0268-acd2-43f0-85bc-0457d05ea56e" />
